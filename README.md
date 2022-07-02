@@ -1,0 +1,2 @@
+# haskell-academy
+ learning haskell
